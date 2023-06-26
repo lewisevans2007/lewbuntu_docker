@@ -1,0 +1,14 @@
+{
+    "name": "lewbuntu_docker",
+    "description": "Lewbuntu is a docker image that has all the tools that I have created. It is based on ubuntu.",
+    "version": "",
+    "main_file": "dockerfile",
+    "author": "Lewis Evans",
+    "license": "GNU General Public License v3.0",
+    "url": "/lewbuntu_docker",
+    "email": "none",
+    "languages": [
+        "shell"
+    ],
+    "actions": {}
+}
