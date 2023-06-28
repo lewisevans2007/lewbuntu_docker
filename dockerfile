@@ -1,6 +1,6 @@
 # Lewbuntu
 # A docker image that has all the tools that I have created
-# Github:https://www.github.com/awesomelewis2007/lewbuntu_docker
+# Github:https://www.github.com/lewisevans2007/lewbuntu_docker
 # Licence: GNU General Public License v3.0
 # By: Lewis Evans
 
