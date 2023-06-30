@@ -13,5 +13,5 @@ Lewbuntu is a docker image that has all the tools that I have created. It is bas
 ## Usage
 
 ```bash
-docker run ghcr.io/lewisevans2007/lewbuntu_docker/lewbuntu:60990b4c7a10318016c7d1ffeda71dc1e88ead9a
+docker run -it ghcr.io/lewisevans2007/lewbuntu_docker/lewbuntu:60990b4c7a10318016c7d1ffeda71dc1e88ead9a
 ```
